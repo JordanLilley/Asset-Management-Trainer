@@ -1,0 +1,2 @@
+# Asset-Management-Trainer
+ This is a project I did for my Sixth Form Non-Examination Assessment (NEA). It is a game similar to Monopoly, however I have adapted it to simulate some real life aspects such as tax rates and maintenance. It was designed to be used as a tool for business teachers at my school to use in lessons to help show the importance of asset management to the younger generation. This seemed important to me since most of them would save up for either clothes or a packet of cigarettes.
